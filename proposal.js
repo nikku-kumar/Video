@@ -1,4 +1,4 @@
-document.title = "Sama's Romantic Surprise - From Nikku";
+document.title = 'Something Special For You, Betu';
 const app = document.querySelector('#app');
 let step = 0;
 let noAttempts = 0;
