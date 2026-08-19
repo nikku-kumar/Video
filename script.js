@@ -1,3 +1,4 @@
+document.title = "Sama's Romantic Surprise - From Nikku";
 const app = document.querySelector('#app');
 let step = 0;
 let noAttempts = 0;
